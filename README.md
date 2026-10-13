@@ -18,20 +18,20 @@
 ## Will Labs
 
 <p align="center">
-  <a href="https://github.com/Will-Ifes/will-labs">
-    <img src="https://raw.githubusercontent.com/Will-Ifes/will-labs/main/evidence/react-1440.png" alt="Prévia do Will Labs: visão geral do design system em React, no tema âmbar escuro" width="100%" />
+  <a href="https://will-ifes.github.io/will-labs/">
+    <img src="./assets/will-labs-live-preview.jpg" alt="Prévia do Will Labs: visão geral do design system em React, no tema âmbar escuro" width="100%" />
   </a>
   <br />
-  <sub>Design system em React · clique na imagem para explorar o projeto</sub>
+  <sub>Captura da demonstração pública · clique na imagem para experimentar</sub>
 </p>
 
 Meu laboratório público de engenharia de software, com um **design system em React**, tokens semânticos compartilhados, oito temas e um catálogo de componentes e composições.
 
 O repositório reúne o código, as decisões de arquitetura, testes de interação e acessibilidade e capturas da interface. A migração do guia original para React continua em evolução; o catálogo e as demonstrações podem ser executados localmente.
 
-**Explore:** [código e instruções](https://github.com/Will-Ifes/will-labs) · [decisões de arquitetura](https://github.com/Will-Ifes/will-labs/tree/main/docs/adr) · [componentes React](https://github.com/Will-Ifes/will-labs/tree/main/packages/ui-react)
+**Explore:** [demonstração online](https://will-ifes.github.io/will-labs/) · [código e instruções](https://github.com/Will-Ifes/will-labs) · [decisões de arquitetura](https://github.com/Will-Ifes/will-labs/tree/main/docs/adr) · [componentes React](https://github.com/Will-Ifes/will-labs/tree/main/packages/ui-react)
 
-> O código já está público. A demonstração hospedada e a publicação dos pacotes ainda estão em preparação.
+> O catálogo React já está disponível online. A publicação dos pacotes ainda está em preparação.
 
 ## Trabalho que você pode explorar agora
 
