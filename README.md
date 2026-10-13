@@ -17,6 +17,14 @@
 
 ## Will Labs
 
+<p align="center">
+  <a href="https://github.com/Will-Ifes/will-labs">
+    <img src="https://raw.githubusercontent.com/Will-Ifes/will-labs/main/evidence/react-1440.png" alt="Prévia do Will Labs: visão geral do design system em React, no tema âmbar escuro" width="100%" />
+  </a>
+  <br />
+  <sub>Design system em React · clique na imagem para explorar o projeto</sub>
+</p>
+
 Meu laboratório público de engenharia de software, com um **design system em React**, tokens semânticos compartilhados, oito temas e um catálogo de componentes e composições.
 
 O repositório reúne o código, as decisões de arquitetura, testes de interação e acessibilidade e capturas da interface. A migração do guia original para React continua em evolução; o catálogo e as demonstrações podem ser executados localmente.
