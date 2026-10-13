@@ -1,48 +1,57 @@
-# Will Oliveira
+<p align="center">
+  <img src="./assets/will-labs-banner.svg" alt="Will Labs — interfaces, produto e decisões de engenharia" width="100%" />
+</p>
 
-Desenvolvedor Frontend Pleno com foco em Angular, React e TypeScript. Trabalho na evolução de interfaces corporativas, design systems, integrações com APIs e aplicações em tempo real.
+<h1 align="center">Will Oliveira</h1>
+<p align="center"><strong>Desenvolvedor Frontend Pleno · Angular · React · TypeScript</strong></p>
+<p align="center">
+  Transformo regras complexas em interfaces claras, com atenção ao comportamento do produto e à manutenção do código.
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/wildemberg-de-jesus-oliveira/">LinkedIn</a>
+  ·
+  <a href="https://github.com/Will-Ifes">Repositórios</a>
+</p>
 
-Minha trajetória em tecnologia sempre passou por transformar regras complexas em telas que as pessoas conseguem usar com clareza. Gosto de entender o fluxo do produto, discutir o comportamento esperado e entregar interfaces que não sejam apenas bonitas, mas previsíveis, responsivas e sustentáveis para o time continuar evoluindo.
+---
 
-Hoje meu foco principal está em desenvolvimento frontend com Angular, React e TypeScript. Também atuo bem perto do backend quando o produto pede integração mais profunda, especialmente com Node.js, NestJS, Prisma, PostgreSQL e APIs REST.
+## Will Labs
 
-## O que costumo entregar
+Estou construindo o **Will Labs** como meu laboratório público de engenharia de software. A ideia é acompanhar a evolução de um produto pequeno e explicar as decisões tomadas no caminho: o problema, as alternativas, a implementação e o que aprendi ao testar o resultado.
 
-- Interfaces administrativas e corporativas com Angular, React, Next.js e TypeScript.
-- Componentes reutilizáveis, organização visual e evolução de design systems.
-- Integração com APIs, autenticação, formulários, filtros, paginação e estados de tela.
-- Funcionalidades em tempo real com WebSocket quando o produto precisa refletir eventos ao vivo.
-- Ajustes de responsividade, acessibilidade, experiência de uso e manutenção de código.
-- Apoio em backend e infraestrutura quando necessário para fechar uma entrega ponta a ponta.
+O primeiro recorte é o design system e sua interface em React. O plano prevê o OpsFlow e novos laboratórios à medida que problemas reais aparecerem no produto. **Essas etapas são trabalho em evolução**, não funcionalidades prontas.
 
-## Tecnologias principais
+> Quando o repositório e a demonstração pública estiverem disponíveis, esta seção terá links diretos para experimentar a interface, ler o código e acompanhar as decisões.
 
-Frontend: Angular, React, Next.js, TypeScript, JavaScript, RxJS, Tailwind CSS, HTML e CSS.
+## Trabalho que você pode explorar agora
 
-Backend e dados: Node.js, NestJS, Express, Prisma, PostgreSQL e SQL.
+### WERT
 
-Qualidade e ferramentas: Git, GitHub, Jest, React Testing Library, Docker, CI/CD e Vercel.
+Aplicação web em que trabalhei com frontend, backend, banco de dados e publicação em ambiente AWS.
 
-## Projeto em destaque: WERT
+- **Frontend:** Next.js, React, TypeScript, Tailwind CSS e fluxo de autenticação.
+- **Backend:** Node.js, Express, TypeScript, Prisma, PostgreSQL, API REST e regras de acesso.
+- **Infraestrutura:** EC2/RDS, Nginx, PM2 e SSL com Let's Encrypt.
 
-O WERT é um projeto em que atuei na construção de uma aplicação web com frontend, backend, banco de dados e deploy.
+**Código:** [frontend](https://github.com/Will-Ifes/frontend) · [backend](https://github.com/Will-Ifes/backend_to_learning_aws)
 
-No frontend, trabalhei com Next.js, React, TypeScript, Tailwind CSS e fluxo de autenticação. No backend, a base utiliza Node.js, Express, TypeScript, Prisma e PostgreSQL, com organização de rotas, regras de acesso e CRUDs para entidades do sistema.
+## Como trabalho
 
-Também participei da parte de infraestrutura, colocando a aplicação em ambiente AWS com EC2/RDS, Nginx, PM2, SSL com Let's Encrypt e deploy em produção.
+- Entendo o fluxo e as regras do produto antes de transformar requisitos em telas.
+- Construo componentes reutilizáveis e mantenho estados, formulários e integrações previsíveis.
+- Cuido de responsividade, acessibilidade e clareza da interface.
+- Aproximo frontend e backend quando isso ajuda a entregar a funcionalidade completa.
 
-Repositórios relacionados:
-
-- [Frontend WERT](https://github.com/Will-Ifes/frontend)
-- [Backend WERT](https://github.com/Will-Ifes/backend_to_learning_aws)
+**Foco:** Angular, React e TypeScript.  
+**Também utilizo:** Next.js, RxJS, Tailwind CSS, Node.js, NestJS, Prisma, PostgreSQL e APIs REST.
 
 ## Em evolução
 
-- Aprofundando minha atuação em Angular moderno, arquitetura frontend e aplicações corporativas com fluxo em tempo real.
-- Cursando Análise e Desenvolvimento de Sistemas, com conclusão prevista para 2027.
-- Organizando este GitHub para refletir melhor minha fase atual como Desenvolvedor Frontend Pleno.
+Curso Análise e Desenvolvimento de Sistemas, com conclusão prevista para 2027. O Will Labs vai reunir projetos, experimentos e explicações práticas sobre decisões de frontend e engenharia de software conforme forem publicados.
 
-## Contato
+---
 
-- [LinkedIn](https://www.linkedin.com/in/wildemberg-de-jesus-oliveira/)
-- GitHub: [@Will-Ifes](https://github.com/Will-Ifes)
+<p align="center">
+  <strong>Vamos conversar sobre frontend e produtos que precisam funcionar bem no mundo real?</strong><br />
+  <a href="https://www.linkedin.com/in/wildemberg-de-jesus-oliveira/">Fale comigo pelo LinkedIn</a>
+</p>
