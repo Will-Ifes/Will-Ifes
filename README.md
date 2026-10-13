@@ -29,21 +29,33 @@ Meu laboratório público de engenharia de software, com um **design system em R
 
 O repositório reúne o código, as decisões de arquitetura, testes de interação e acessibilidade e capturas da interface. A migração do guia original para React continua em evolução; o catálogo e as demonstrações podem ser executados localmente.
 
+**Por dentro do código:** [campos React](https://github.com/Will-Ifes/will-labs/blob/main/packages/ui-react/src/fields.tsx) · [teste de integração](https://github.com/Will-Ifes/will-labs/blob/main/tests/react-advanced.mjs) · [decisão do design system](https://github.com/Will-Ifes/will-labs/blob/main/docs/adr/ADR-004-design-system.md)
+
 **Explore:** [demonstração online](https://will-ifes.github.io/will-labs/) · [código e instruções](https://github.com/Will-Ifes/will-labs) · [decisões de arquitetura](https://github.com/Will-Ifes/will-labs/tree/main/docs/adr) · [componentes React](https://github.com/Will-Ifes/will-labs/tree/main/packages/ui-react)
 
 > O catálogo React já está disponível online. A publicação dos pacotes ainda está em preparação.
 
-## Trabalho que você pode explorar agora
+## Projetos para explorar
 
-### WERT
+### WERT · interface e API de gestão
 
-Aplicação web em que trabalhei com frontend, backend, banco de dados e publicação em ambiente AWS.
+Trabalho com cadastros, usuários, produtos e movimentações de estoque. O frontend organiza as operações em páginas, formulários e abas; a API separa rotas, serviços e acesso aos dados por domínio.
 
-- **Frontend:** Next.js, React, TypeScript, Tailwind CSS e fluxo de autenticação.
-- **Backend:** Node.js, Express, TypeScript, Prisma, PostgreSQL, API REST e regras de acesso.
-- **Infraestrutura:** EC2/RDS, Nginx, PM2 e SSL com Let's Encrypt.
+**Stack:** Next.js, React, TypeScript, Tailwind CSS, Express, Prisma e PostgreSQL.
 
-**Código:** [frontend](https://github.com/Will-Ifes/frontend) · [backend](https://github.com/Will-Ifes/backend_to_learning_aws)
+**Explore:** [frontend e contexto](https://github.com/Will-Ifes/wert-frontend) · [API e arquitetura](https://github.com/Will-Ifes/wert-backend) · [inventário em abas](https://github.com/Will-Ifes/wert-frontend/blob/main/src/app/inventory/page.tsx) · [modelo de dados](https://github.com/Will-Ifes/wert-backend/blob/main/prisma/schema.prisma)
+
+As versões de portfólio têm cópias revisadas e histórico novo. Os READMEs explicam o escopo e os requisitos de configuração.
+
+### Trello.ia · autenticação e base de produto
+
+Projeto pessoal de organização de tarefas, com cadastro, login, recuperação de senha e estrutura de dashboard. O código reúne ações no servidor, formulários, estado local e uma API de autenticação.
+
+**Stack:** Next.js, React, TypeScript, Redux Toolkit, NestJS, Prisma e PostgreSQL.
+
+**Explore:** [frontend](https://github.com/Will-Ifes/trello-ia-frontend) · [backend](https://github.com/Will-Ifes/trello-ia-backend) · [integração de login](https://github.com/Will-Ifes/trello-ia-frontend/blob/main/src/features/auth/actions/login.ts) · [service de autenticação](https://github.com/Will-Ifes/trello-ia-backend/blob/main/src/auth/auth.service.ts)
+
+O dashboard usa quadros de exemplo. O fluxo completo de tarefas e os recursos de IA fazem parte da evolução planejada.
 
 ## Como trabalho
 
