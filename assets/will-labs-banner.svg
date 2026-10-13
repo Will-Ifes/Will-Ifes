@@ -1,33 +1,35 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-  <title id="title">Will Labs</title>
-  <desc id="desc">Laboratório público de interfaces, produto e decisões de engenharia</desc>
-  <defs>
-    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
-      <stop offset="0" stop-color="#101b18"/>
-      <stop offset="1" stop-color="#172b26"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="0" x2="1">
-      <stop offset="0" stop-color="#d7e6b8"/>
-      <stop offset="1" stop-color="#82b99d"/>
-    </linearGradient>
-    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
-      <path d="M34 0H0V34" fill="none" stroke="#e1edd9" stroke-opacity=".07"/>
-    </pattern>
-  </defs>
-  <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
-  <rect width="1200" height="360" rx="24" fill="url(#grid)"/>
-  <path d="M0 286C160 217 256 355 428 290S720 220 855 296 1078 338 1200 232" fill="none" stroke="#a7d0b2" stroke-opacity=".18" stroke-width="2"/>
-  <rect x="61" y="48" width="152" height="33" rx="16" fill="#d7e6b8" fill-opacity=".12" stroke="#d7e6b8" stroke-opacity=".4"/>
-  <circle cx="82" cy="64.5" r="4" fill="#d7e6b8"/>
-  <text x="97" y="69" fill="#d7e6b8" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="2">WILL / LABS</text>
-  <text x="61" y="171" fill="#f3f5e9" font-family="Arial, sans-serif" font-size="70" font-weight="700" letter-spacing="-3">Ideias viram</text>
-  <text x="61" y="244" fill="url(#accent)" font-family="Arial, sans-serif" font-size="70" font-weight="700" letter-spacing="-3">interfaces reais.</text>
-  <text x="64" y="302" fill="#b8c9ba" font-family="Arial, sans-serif" font-size="18">Frontend  /  Produto  /  Decisões de engenharia</text>
-  <g transform="translate(890 65)" fill="none" stroke="#b6d6b9" stroke-opacity=".65" stroke-width="2">
-    <rect x="0" y="0" width="244" height="204" rx="12" fill="#1c302a" stroke="#81a88d"/>
-    <path d="M0 42h244M18 21h8m12 0h8m12 0h8" stroke-linecap="round"/>
-    <rect x="20" y="64" width="96" height="14" rx="4" fill="#bed8b4" fill-opacity=".45" stroke="none"/>
-    <rect x="20" y="93" width="203" height="83" rx="7" stroke-opacity=".35"/>
-    <path d="m39 135 19 19 38-43m36 29h60m-60 20h39" stroke-linecap="round" stroke-linejoin="round"/>
-  </g>
+<title id="title">Will Labs — ideias viram interfaces reais</title>
+<desc id="desc">Banner âmbar escuro de Will Oliveira, desenvolvedor frontend com foco em Angular, React e TypeScript.</desc>
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#241C16"/><stop offset="1" stop-color="#32271E"/></linearGradient>
+ <linearGradient id="accent" x2="1"><stop stop-color="#FFE3AD"/><stop offset="1" stop-color="#F2CB82"/></linearGradient>
+ <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#AE9678" stroke-opacity=".07"/></pattern>
+</defs>
+<rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+<rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+<path d="M760 0V360" stroke="#AE9678" stroke-opacity=".12"/>
+<rect x="58" y="44" width="180" height="34" rx="17" fill="#443527" stroke="#AE9678" stroke-opacity=".55"/>
+<circle cx="78" cy="61" r="4" fill="#F2CB82"/>
+<text x="94" y="66" fill="#F2CB82" font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="2">WILL / LABS</text>
+<text x="58" y="169" fill="#FCF3E5" font-family="Arial,sans-serif" font-size="68" font-weight="700" letter-spacing="-2.5">Ideias viram</text>
+<text x="58" y="242" fill="url(#accent)" font-family="Arial,sans-serif" font-size="68" font-weight="700" letter-spacing="-2.5">interfaces reais.</text>
+<text x="61" y="299" fill="#DECFB7" font-family="Arial,sans-serif" font-size="17">Angular · React · TypeScript</text>
+<g transform="translate(812 57)">
+ <rect width="328" height="246" rx="16" fill="#241C16" stroke="#AE9678" stroke-opacity=".65"/>
+ <path d="M0 43H328" stroke="#AE9678" stroke-opacity=".35"/>
+ <circle cx="22" cy="22" r="4" fill="#F2CB82"/><circle cx="38" cy="22" r="4" fill="#AE9678"/><circle cx="54" cy="22" r="4" fill="#675845"/>
+ <text x="154" y="27" fill="#DECFB7" font-family="Arial,sans-serif" font-size="10" letter-spacing="1.2">DESIGN SYSTEM / V1</text>
+ <rect x="20" y="64" width="288" height="126" rx="10" fill="#32271E" stroke="#AE9678" stroke-opacity=".35"/>
+ <text x="38" y="91" fill="#F2CB82" font-family="Arial,sans-serif" font-size="10" letter-spacing="1.8">DO COMPONENTE AO PRODUTO</text>
+ <rect x="38" y="110" width="117" height="11" rx="3" fill="#FCF3E5" fill-opacity=".8"/>
+ <rect x="38" y="131" width="172" height="7" rx="3" fill="#DECFB7" fill-opacity=".3"/>
+ <rect x="38" y="151" width="73" height="23" rx="6" fill="#F2CB82"/>
+ <path d="m54 162 4 4 8-8" fill="none" stroke="#322218" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+ <text x="74" y="166" fill="#322218" font-family="Arial,sans-serif" font-size="9" font-weight="700">Pronto</text>
+ <path d="M242 110h46m-46 12h32m-32 12h39m-39 12h22" stroke="#AE9678" stroke-opacity=".45" stroke-width="3" stroke-linecap="round"/>
+ <text x="20" y="222" fill="#DECFB7" font-family="Arial,sans-serif" font-size="12">tokens</text><text x="76" y="222" fill="#AE9678" font-family="Arial,sans-serif">/</text>
+ <text x="90" y="222" fill="#DECFB7" font-family="Arial,sans-serif" font-size="12">componentes</text><text x="180" y="222" fill="#AE9678" font-family="Arial,sans-serif">/</text>
+ <text x="194" y="222" fill="#DECFB7" font-family="Arial,sans-serif" font-size="12">produto</text>
+</g>
 </svg>

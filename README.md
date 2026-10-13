@@ -52,6 +52,10 @@ Aplicação web em que trabalhei com frontend, backend, banco de dados e publica
 - Cuido de responsividade, acessibilidade e clareza da interface.
 - Aproximo frontend e backend quando isso ajuda a entregar a funcionalidade completa.
 
+<p align="center">
+  <img src="./assets/will-stack-snake.svg" alt="Tecnologias que uso: cobrinha âmbar passando por Angular, React, TypeScript, Next.js, Node.js, NestJS, PostgreSQL e Docker" width="100%" />
+</p>
+
 **Foco:** Angular, React e TypeScript.  
 **Também utilizo:** Next.js, RxJS, Tailwind CSS, Node.js, NestJS, Prisma, PostgreSQL e APIs REST.
 
