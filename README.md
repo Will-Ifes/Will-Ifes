@@ -17,11 +17,13 @@
 
 ## Will Labs
 
-Estou construindo o **Will Labs** como meu laboratório público de engenharia de software. A ideia é acompanhar a evolução de um produto pequeno e explicar as decisões tomadas no caminho: o problema, as alternativas, a implementação e o que aprendi ao testar o resultado.
+Meu laboratório público de engenharia de software, com um **design system em React**, tokens semânticos compartilhados, oito temas e um catálogo de componentes e composições.
 
-O primeiro recorte é o design system e sua interface em React. O plano prevê o OpsFlow e novos laboratórios à medida que problemas reais aparecerem no produto. **Essas etapas são trabalho em evolução**, não funcionalidades prontas.
+O repositório reúne o código, as decisões de arquitetura, testes de interação e acessibilidade e capturas da interface. A migração do guia original para React continua em evolução; o catálogo e as demonstrações podem ser executados localmente.
 
-> Quando o repositório e a demonstração pública estiverem disponíveis, esta seção terá links diretos para experimentar a interface, ler o código e acompanhar as decisões.
+**Explore:** [código e instruções](https://github.com/Will-Ifes/will-labs) · [decisões de arquitetura](https://github.com/Will-Ifes/will-labs/tree/main/docs/adr) · [componentes React](https://github.com/Will-Ifes/will-labs/tree/main/packages/ui-react)
+
+> O código já está público. A demonstração hospedada e a publicação dos pacotes ainda estão em preparação.
 
 ## Trabalho que você pode explorar agora
 
