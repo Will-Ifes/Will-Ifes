@@ -19,10 +19,10 @@
 
 <p align="center">
   <a href="https://will-ifes.github.io/will-labs/">
-    <img src="./assets/will-labs-live-preview.jpg" alt="Prévia do Will Labs: visão geral do design system em React, no tema âmbar escuro" width="100%" />
+    <img src="./assets/will-labs-preview.gif" alt="Prévia animada do Will Labs: componentes, modal e troca entre os temas escuro e claro" width="100%" />
   </a>
   <br />
-  <sub>Captura da demonstração pública · clique na imagem para experimentar</sub>
+  <sub>Prévia animada do site publicado · clique para experimentar</sub>
 </p>
 
 Meu laboratório público de engenharia de software, com um **design system em React**, tokens semânticos compartilhados, oito temas e um catálogo de componentes e composições.
