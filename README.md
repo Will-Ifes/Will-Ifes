@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/wildemberg-de-jesus-oliveira/">LinkedIn</a>
   ·
-  <a href="https://github.com/Will-Ifes">Repositórios</a>
+  <a href="https://github.com/Will-Ifes?tab=repositories">Repositórios</a>
 </p>
 
 ---
