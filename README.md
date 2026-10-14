@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/will-labs-banner.svg" alt="Will Labs — interfaces, produto e decisões de engenharia" width="100%" />
+  <img src="./assets/will-labs-banner.svg" alt="Will Labs · interfaces, produto e decisões de engenharia" width="100%" />
 </p>
 
 <h1 align="center">Will Oliveira</h1>
@@ -25,7 +25,6 @@
   <sub>Prévia animada do site publicado · clique para experimentar</sub>
 </p>
 
-
 Design system em React, com tokens compartilhados, oito temas e componentes reutilizáveis. Um espaço para explorar interfaces, decisões de arquitetura e testes.
 
 **Explore:** [site](https://will-ifes.github.io/will-labs/) · [código](https://github.com/Will-Ifes/will-labs) · [arquitetura](https://github.com/Will-Ifes/will-labs/tree/main/docs/adr) · [testes](https://github.com/Will-Ifes/will-labs/tree/main/tests)
@@ -36,6 +35,8 @@ Design system em React, com tokens compartilhados, oito temas e componentes reut
 | --- | --- | --- |
 | **WERT** | Interface e API de gestão: usuários, produtos e movimentações de estoque. | [Frontend](https://github.com/Will-Ifes/wert-frontend) · [Backend](https://github.com/Will-Ifes/wert-backend) |
 | **Trello.ia** | Autenticação, recuperação de senha e base de dashboard de um projeto pessoal. | [Frontend](https://github.com/Will-Ifes/trello-ia-frontend) · [Backend](https://github.com/Will-Ifes/trello-ia-backend) |
+
+**Veja as decisões no código:** [componentes e tokens do Will Labs](https://github.com/Will-Ifes/will-labs/tree/main/packages) · [operações de estoque no WERT](https://github.com/Will-Ifes/wert-backend/tree/main/src/domain/stockManagement) · [testes de autenticação no Trello.ia](https://github.com/Will-Ifes/trello-ia-frontend/tree/main/src/features/auth/__tests__)
 
 Os READMEs apresentam o contexto, a implementação e o estágio de cada projeto.
 
