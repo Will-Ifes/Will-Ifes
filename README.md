@@ -3,6 +3,9 @@
 </p>
 
 <h1 align="center">Will Oliveira</h1>
+<p align="center">
+  <img src="./assets/profile-typing.svg" alt="Transformo regras complexas em interfaces claras." width="600" />
+</p>
 <p align="center"><strong>Desenvolvedor Frontend Pleno · Angular · React · TypeScript</strong></p>
 <p align="center">
   Transformo regras complexas em interfaces claras, com atenção ao comportamento do produto e à manutenção do código.
